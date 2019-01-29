@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Unity;assembly=Prism.Unity.Forms"
+             xmlns:custom="clr-namespace:XamarinAwesome.Control"
+             x:Class="XamarinAwesome.App">
+	<Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="blueButtonStyle" TargetType="custom:CustomButton">
+                <Setter Property="TextColor" Value="#FFFFFF" />
+                <Setter Property="FontSize" Value="Large"/>
+                <Setter Property="CustomBackgroundColor" Value="#6C97BF"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="WidthRequest" Value="150"/>
+                <Setter Property="HeightRequest" Value="65"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+                <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            </Style>
+        </ResourceDictionary>
+        <!-- Application resource dictionary -->
+
+	</Application.Resources>
+</prism:PrismApplication>

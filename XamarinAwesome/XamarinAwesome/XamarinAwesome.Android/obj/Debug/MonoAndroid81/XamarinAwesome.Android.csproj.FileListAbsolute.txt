@@ -1,0 +1,215 @@
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.dll
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\com.companyname.appname.apk
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\com.companyname.appname-Signed.apk
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.dll
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csprojAssemblyReference.cache
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamlC.stamp
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csproj.CopyComplete
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.dll
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.appname.apk
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\marko.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p327144.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p378674.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p398931.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p401107.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p453095.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p458914.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p467499.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p474893.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p497489.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p503001.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p589739.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p597956.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p627958.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p705193.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p731150.jpg
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\R.txt
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\mscorlib.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.Forms.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.Unity.Forms.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Core.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Xml.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Data.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.Forms.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.Unity.Forms.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.Android.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\com.companyname.appname.apk
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\com.companyname.appname-Signed.apk
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csprojAssemblyReference.cache
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res.flag
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csproj.CoreCompileInputs.cache
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamlC.stamp
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.csproj.CopyComplete
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\XamarinAwesome.Android.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.appname.apk
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\marko.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p327144.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p378674.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p398931.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p401107.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p453095.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p458914.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p467499.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p474893.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p497489.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p503001.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p589739.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p597956.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p627958.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p705193.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\res\drawable\p731150.jpg
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\R.cs.flag
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\R.txt
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Mono.Android.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Mono.Security.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\mscorlib.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.Unity.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Data.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.IO.Compression.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Net.Http.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Numerics.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Transactions.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Web.Services.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Xml.Linq.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\System.Xml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Prism.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Prism.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\XamarinAwesome.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Prism.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Prism.Unity.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\android\assets\XamarinAwesome.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.Unity.Forms.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\bin\Debug\XamarinAwesome.Android.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\XamarinAwesome.Android.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Prism.dll.mdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

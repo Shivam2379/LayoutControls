@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:XamarinAwesome.Control"
+             x:Class="XamarinAwesome.Views.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
+        <custom:CustomButton Grid.Row="7" Text="Submit" StartColor="#3399ff" EndColor="#ff5050" CustomBorderRadius="0" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Style="{StaticResource blueButtonStyle}"  Margin="0,10,0,0" Command="{Binding SimpleNavigateCommand}"/>
+        <!--<Button Text="Tinder Page" Command="{Binding TinderNavigateCommand}"></Button>-->
+        <Button Text="Simple Page" Command="{Binding SimpleNavigateCommand}" ></Button>
+        <Button Text="Colors Page" Command="{Binding ColorsNavigateCommand}" ></Button>
+        <Button Text="Customizable Page" Command="{Binding CustomNavigateCommand}" ></Button>
+    </StackLayout>
+    <!--<StackLayout VerticalOptions="CenterAndExpand" Padding="10">
+        <Button Text="Tinder Page" Command="{Binding TinderNavigateCommand}" CommandParameter="{x:Type view:TinderPage}"></Button>
+        <Button Text="Simple Page" Command="{Binding SimpleNavigateCommand}" CommandParameter="{x:Type view:SimplePage}"></Button>
+        <Button Text="Colors Page" Command="{Binding ColorsNavigateCommand}" CommandParameter="{x:Type view:ColorsPage}"></Button>
+        <Button Text="Customizable Page" Command="{Binding CustomNavigateCommand}" CommandParameter="{x:Type view:CustomizablePage}"></Button>
+    </StackLayout>-->
+
+</ContentPage>

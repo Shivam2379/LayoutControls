@@ -1,0 +1,31 @@
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\ColorsPage.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\CustomizablePage.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\SimplePage.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\TinderPage.xaml.g.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.AssemblyInfoInputs.cache
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.AssemblyInfo.cs
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.dll
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.deps.json
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.dll
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.pdb
+C:\Users\Saurabh Yadav\Desktop\shivam_Data\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.deps.json
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\bin\Debug\netstandard2.0\XamarinAwesome.pdb
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.csprojAssemblyReference.cache
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\ColorsPage.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\CustomizablePage.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\SimplePage.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\Views\TinderPage.xaml.g.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.csproj.CoreCompileInputs.cache
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.AssemblyInfoInputs.cache
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.AssemblyInfo.cs
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.dll
+D:\VirtualGitShivam\XamarinAwesome\XamarinAwesome\XamarinAwesome\obj\Debug\netstandard2.0\XamarinAwesome.pdb
